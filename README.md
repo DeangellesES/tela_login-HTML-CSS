@@ -1,7 +1,7 @@
 <h1>Projeto: Tela de Login </h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de uma tela de login simples, desenvolvido para práticar e servir de exemplo.</p>
+<p>Projeto front-end de uma tela de login simples, desenvolvido para praticar e servir de exemplo.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/tela_login-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
