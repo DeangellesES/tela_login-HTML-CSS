@@ -21,5 +21,5 @@
   <li>boxicons utilizado para colocar icones</li>
   <li>flex box css</li>
   <li>Manipulação de background para imagem</li>
-  <li>input, placeholder</li>
+  <li>input, placeholder, form</li>
 </ul>
