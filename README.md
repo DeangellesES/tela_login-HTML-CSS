@@ -23,4 +23,5 @@
   <li>Manipulação de background para imagem</li>
   <li>input, placeholder, form</li>
   <li>google fontes para tipo de fonte sendo importado no arquivo CSS</li>
+  <li>Boa forma de criação de classes</li>
 </ul>
