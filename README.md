@@ -11,7 +11,7 @@
   <li><b>CSS</b></li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Fazer Login</li>
 </ul>
